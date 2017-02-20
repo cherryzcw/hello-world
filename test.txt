@@ -10,3 +10,4 @@ windows ssh
 windows ssh 2nd test
 "test batch file" 
 test jenkins
+test jenkins 2
